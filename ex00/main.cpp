@@ -6,7 +6,7 @@
 /*   By: kong <kong@student.42singapore.sg>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/08/28 15:37:45 by kong              #+#    #+#             */
-/*   Updated: 2026/08/28 17:03:10 by kong             ###   ########.fr       */
+/*   Updated: 2026/08/28 17:48:48 by kong             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,6 +46,7 @@ Destructor called
 
 
 /*
+The format name: Q23.8 ( 1 sign bit + 23 int bits + 8 frac bits )
 Lower 8 bits represents the fractional part of real value.
 0.5 
 decimal -> 5 in the range of 0 - 9;

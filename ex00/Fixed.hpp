@@ -6,7 +6,7 @@
 /*   By: kong <kong@student.42singapore.sg>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/08/28 14:51:21 by kong              #+#    #+#             */
-/*   Updated: 2026/08/28 16:10:30 by kong             ###   ########.fr       */
+/*   Updated: 2026/08/28 17:37:46 by kong             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,6 @@
 # define FIXED_HPP
 
 # include <iostream>
-# include <string>
 
 class Fixed
 {
